@@ -5,7 +5,7 @@ The patterns of the features across multiple scales are encoded as a binary patt
 before embedded back to the classification model. <br />
 [Link](https://ieeexplore.ieee.org/abstract/document/9496153) to J-BHI paper. <br />
 
-![](docs/MSBP_network.jpg)
+![](docs/MSBP_network.png)
 
 All the models in this project were evaluated on the following datasets:
 
