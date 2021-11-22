@@ -5,7 +5,7 @@ The patterns of the features across multiple scales are encoded as a binary patt
 before embedded back to the classification model. <br />
 [Link](https://ieeexplore.ieee.org/abstract/document/9496153) to J-BHI paper. <br />
 
-![](docs/MSBP_network.jpg)
+![](docs/MSBP_network.png)
 
 All the models in this project were evaluated on the following datasets:
 
@@ -50,15 +50,15 @@ Below are the main executable scripts in the repository:
 ```
 
 Options:
-** Our proposed and 9 common/state-of-the-art categorical and ordinal classification methods, including:**
+** Our proposed and other common/state-of-the-art multi-scale and single-scale methods, including:**
 
 | METHOD         | run_info         |  Description          |
 | ---------------|------------------| ----------------------|
-| ResNet         | Resnet           | Feature extractor: ResNet50
-| VGG            | VGG              | Feature extractor: VGG16
-| MobileNetV1    | MobileNetV1      | Feature extractor: MobileNetV1
-| EfficientNet   | EfficientNet     | Feature extractor: EfficientNetB1
-| ResNeSt        | ResNeSt          | Feature extractor: ResNeSt50
+| ResNet         | Resnet           | Feature extractor: ResNet50 (Code from Pytorch library)
+| VGG            | VGG              | Feature extractor: VGG16 (Code from Pytorch library)
+| MobileNetV1    | MobileNetV1      | Feature extractor: MobileNetV1 (Code from Pytorch library)
+| EfficientNet   | EfficientNet     | Feature extractor: EfficientNetB1 (Code from lukemelas) [[Github]](https://github.com/lukemelas/EfficientNet-PyTorch)
+| ResNeSt        | ResNeSt          | Feature extractor: ResNeSt50 (Code from Pytorch library)
 | MuDeep         | MuDeep           | Multi_scale: Multi-scale deep learning architectures for person re-identification. [[paper]](https://arxiv.org/abs/1709.05165) [[code]](https://github.com/linzhi123/deep-persion-reid)
 | MSDNet         | MSDNet           | Multi_scale: Multi-scale dense networks for resource efficient image classification. [[paper]](https://arxiv.org/abs/1703.09844) [[code]](https://github.com/kalviny/MSDNet-PyTorch)
 | Res2Net        | Res2Net          | Multi_scale: Res2Net: A New Multi-scale Backbone Architecture [[paper]](https://arxiv.org/abs/1904.01169) [[code]](https://github.com/Res2Net/Res2Net-ImageNet-Training)
