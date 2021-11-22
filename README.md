@@ -50,7 +50,7 @@ Below are the main executable scripts in the repository:
 ```
 
 Options:
-** Our proposed and 9 common/state-of-the-art categorical and ordinal classification methods, including:**
+** Our proposed and other common/state-of-the-art multi-scale and single-scale methods, including:**
 
 | METHOD         | run_info         |  Description          |
 | ---------------|------------------| ----------------------|
