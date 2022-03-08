@@ -101,12 +101,12 @@ If any part of this code is used, please give appropriate citation to our paper.
 BibTex entry: <br />
 ```
 @ARTICLE{9496153,
-  author={Trinh, Trinh Thi Le and Song, Boram and Kim, Kyungeun and Cho, Yong Mi and Kwak, Jin Tae},
+  author={Vuong, Trinh T. L. and Song, Boram and Kim, Kyungeun and Cho, Yong M. and Kwak, Jin T.},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
-  title={Multi-scale binary pattern encoding network for cancer classification in pathology images}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
+  title={Multi-Scale Binary Pattern Encoding Network for Cancer Classification in Pathology Images}, 
+  year={2022},
+  volume={26},
+  number={3},
+  pages={1152-1163},
   doi={10.1109/JBHI.2021.3099817}}
 ```
