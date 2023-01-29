@@ -11,7 +11,6 @@ All the models in this project were evaluated on the following datasets:
 
 - [Colon_KBSMC](https://github.com/QuIIL/KBSMC_colon_cancer_grading_dataset) (Colon TMA from Kangbuk Samsung Hospital)
 - [Colon_KBSMC](https://github.com/QuIIL/KBSMC_colon_cancer_grading_dataset) (Colon WSI from Kangbuk Samsung Hospital)
-- [Prostate_KSH]() (Prosate TMA from Kangbuk Samsung Hospital - Available soon)
 
 ## Set Up Environment
 
