@@ -9,7 +9,7 @@ from sklearn.model_selection import StratifiedKFold
 from torchvision import transforms
 import cv2
 
-root_dir = '/data1/trinh/data/patches_data/SBP/Colon_Dataset/COLON_PATCHES_1000_V2'
+root_dir = './Colon_Dataset/COLON_PATCHES_1000_V2'
 train_root1 = root_dir + '/train_data/v1'
 train_root2 = root_dir + '/train_data/wsi'
 valid_root1 = root_dir + '/valid_data/v1'
