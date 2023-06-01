@@ -7,9 +7,9 @@ import imgaug as ia
 from sklearn.model_selection import StratifiedKFold
 import cv2
 
-root_dir = '/data1/trinh/data/patches_data/SBP/Prostate_Dataset/patches_750_r7b3/'
-train_dirs = ['11S-1_1(x400)', '11S-1_2(x400)', '11S-1_3(x400)','11S-1_6(x400)']
-valid_dirs = ['11S-1_4(x400)', '11S-1_5(x400)']
+root_dir = './Prostate_Dataset/patches_750_r7b3/'
+train_dirs = ['wsi_1', 'wsi_2', 'wsi_2','wsi_3']
+valid_dirs = ['wsi_4', 'wsi_5']
 
 class ToTensor(object):
 
