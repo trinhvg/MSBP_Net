@@ -90,8 +90,7 @@ If any of the above checkpoints are used, please ensure to cite the correspondin
 
 ## Authors
 
-* [Trinh Thi Le Vuong](https://github.com/timmyvg)
-* [Jin Tae Kwak](https://github.com/timmyvg)
+* [Trinh, TL Vuong](https://github.com/timmyvg), Song, Boram and Kim, Kyungeun and Cho, Yong M. and Jin Tae Kwak
 
 
 ## Citation
