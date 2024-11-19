@@ -81,10 +81,10 @@ Options:
 ### Model Weights
 
 Model weights obtained from training MSBP here:
-- [Colon checkpoint](https://drive.google.com/drive/folders/1uJKUwp6EMvDYV7pDF3xTg4UV0T3dD9zs?usp=sharing)
-- [Prostate checkpoint](https://drive.google.com/drive/folders/1DmvmE3WRAgNO494L3O4lGppUxlfZYxuO?usp=sharing)
+- [Colon checkpoint](https://drive.google.com/drive/folders/129euzr7hZ3x99JaaSn6gWMdfdJiCbFC4?usp=drive_link)
+- [Prostate checkpoint](https://drive.google.com/drive/folders/1Hbbx2pUXcgEPnTvJoIcpXZ7BSaXQ7oWI?usp=drive_link)
 
-Access the entire checkpoints [here](https://drive.google.com/drive/folders/1gX5NELGelZxLuqwcW9ptL5kDtf5-Gqcz?usp=sharing).
+%Access the entire checkpoints [here](https://drive.google.com/drive/folders/1gX5NELGelZxLuqwcW9ptL5kDtf5-Gqcz?usp=sharing).
 
 If any of the above checkpoints are used, please ensure to cite the corresponding paper.
 
